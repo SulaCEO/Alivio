@@ -247,3 +247,7 @@ footer .questions{
 .questions li:nth-child(1n+2){
     margin-top: 33px;
 }
+
+.questions a:hover{
+    border-bottom: 2px solid white;
+}
